@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Amrutha",
+        "email": "amrutha@gmail.com",
+        "countrycode": 91,
+        "phno": 9230567892
+    },
+    {
+        "id": 2,
+        "name": "John",
+        "email": "john@gmail.com",
+        "countrycode": 1,
+        "phno": 1234662392
+    },
+    {
+        "id": 3,
+        "name": "Jack",
+        "email": "jack123@gmail.com",
+        "countrycode": 61,
+        "phno": 9875467892
+    },
+    {
+        "id": 4,
+        "name": "Jill",
+        "email": "ji11@gmail.com",
+        "countrycode": 92,
+        "phno": 7237853902
+    },
+    {
+        "id": 5,
+        "name": "Lisa",
+        "email": "lisaa89@gmail.com",
+        "countrycode": 82,
+        "phno": 7289002342
+    }
+    
+]
